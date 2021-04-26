@@ -18,7 +18,7 @@ Si vous n'avez pas encore le vertige, continuons.
 
 *(askip, c'est plus clean si vous insèrez des mots en anglais)*
 
-**Grand un : Parlons booléen, maintenant.**
+##Grand un : Parlons booléen, maintenant.
 Affinons et élargissons ensemble nos recherches par mots-clés. 
 Pour le faire, nous avons besoin de 10 ingrédients : 
 
