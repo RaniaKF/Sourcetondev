@@ -18,17 +18,17 @@ Si vous n'avez pas encore le vertige, continuons.
 
 *(askip, c'est plus clean si vous insèrez des mots en anglais)*
 
-##Grand un : Parlons booléen, maintenant.
-Affinons et élargissons ensemble nos recherches par mots-clés. 
-Pour le faire, nous avons besoin de 10 ingrédients : 
+## Grand un : Parlons booléen, maintenant.
+```Affinons et élargissons ensemble nos recherches par mots-clés. 
+Pour le faire, nous avons besoin de 10 ingrédients : ```
 
-=> Quotes " " : 
-=> Parentheses ( ) : 
-=> Minus - :
-=> AND/ET : 
-=> OR :
-=> Asterisk * : 
-=> Inurl :
-=> Intitle : 
-=> Intext :
-=> Filetype : 
+- Quotes " " : 
+- Parentheses ( ) : 
+- Minus - :
+- AND/ET : 
+- OR :
+- Asterisk * : 
+- Inurl :
+- Intitle : 
+- Intext :
+- Filetype : 
