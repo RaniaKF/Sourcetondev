@@ -20,7 +20,7 @@ Si vous n'avez pas encore le vertige, continuons.
 
 ## Grand un : Parlons booléen, maintenant.
 ```Affinons et élargissons ensemble nos recherches par mots-clés. 
-Pour le faire, nous avons besoin de 10 ingrédients : ```
+Pour le faire, nous avons besoin de 10 ingrédients : 
 
 - Quotes " " : 
 - Parentheses ( ) : 
@@ -32,3 +32,5 @@ Pour le faire, nous avons besoin de 10 ingrédients : ```
 - Intitle : 
 - Intext :
 - Filetype : 
+```
+
