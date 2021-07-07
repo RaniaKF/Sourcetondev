@@ -60,9 +60,9 @@ Attention : Avoir des repositories sur son profil ne veut rien dire car on a la 
 
 ●	Contributions : Vu que Github se base sur tout ce qui open source, chaque utilisateur a le droit d’ajouter sa contribution à un projet. (Faire des changements sur le code par exemple)
 
-●	Issues : Les problèmes que les utilisateurs ont trouvé après utilisation du code ;
+●	Issues : Les problèmes que les utilisateurs ont trouvé après utilisation du code.
 
-●	Commit : Après chaque modification, ils lancent un commit sur la première version pour connaître les dernières modifications ;
+●	Commit : Après chaque modification, ils lancent un commit sur la première version pour connaître les dernières modifications.
 
 **Comment sourcer sur Github ?**  
 1) Créer son compte en cliquant [ICI](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
