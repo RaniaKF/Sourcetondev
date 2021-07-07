@@ -85,7 +85,7 @@ Quelques pistes pour sourcer / contacter les profils :
 - Patch : https://github.com/ + nom de l'utilisateur + commit + .patch. Exemple : https://github.com/CesarValiente/cesarvaliente.github.io/commit/a8baac6c39bb4f22177f5612273a0200748d6e0a.patch 
 
  ## Grand trois : Manger son steak avec du flow ! (Blague pourrie, bonjour) 
- Comme c'est un forum qui permet aux développeurs d'échanger, de poser leurs questions et de trouver des reponses lorsqu'ils buguent dans leur code... Ca peut aussi servir de le checker. 
+ Comme c'est un forum qui permet aux développeurs d'échanger, de poser leurs questions et de trouver des réponses lorsqu'ils buguent dans leur code... Cela peut aussi servir de le checker. 🔎
  
  On a plusieurs possibilités notamment :
  - X-Ray : site:stackoverflow.com/users localisation langage
