@@ -84,3 +84,42 @@ Quelques pistes pour sourcer / contacter les profils :
 - API : https://api.github.com/users/(pseudo de l’utilisateur)/events/public
 - Patch : https://github.com/ + nom de l'utilisateur + commit + .patch. Exemple : https://github.com/CesarValiente/cesarvaliente.github.io/commit/a8baac6c39bb4f22177f5612273a0200748d6e0a.patch 
 
+ ## Grand trois : Manger son steak avec du flow ! (Blague pourrie, bonjour) 
+ Comme c'est un forum qui permet aux développeur d'échanger, de poser leurs questions et de trouver des reponses lorsqu'ils buguent dans leur code... Ca peut aussi servir de le checker. 
+ 
+ On a plusieurs possibilités notamment :
+ - X-Ray : site:stackoverflow.com/users localisation langage
+ - Page d'une entreprise, par exemple : https://stackoverflow.com/jobs/companies/doctolib#people-items
+ - Stackexchange :
+ 1) https://data.stackexchange.com/stackoverflow/query/519575/top-users-by-location-and-tag 
+ 2) https://data.stackexchange.com/stackoverflow/query/715250/find-stack-overflow-users-in-your-city-with-user-links-with-their-score-for-one
+
+=> Enter Parameters => location / langage => Run Query => CSV. Aidez-vous avec AmazingHiring si le profil vous intéresse et que vous n'avez qu'un pseudo. 
+
+ ## Grand quatre : Chope ton oiseau avec Twitter
+ 
+On peut utiliser :
+1) site:twitter.com title langage etc.
+2) site:twitter.com inurl:lists + langage.
+3) https://tweetdeck.twitter.com/ si vous aimez stalker :), vous pouvez notamment sauvegarder vos hashtags/events...
+
+ ## Grand cinq : Sl(t)ack ? 
+La liste des communautés : 
+- Taper tout simplement sur Google la communauté recherchée (Par exemple : ruby on rails slack groupe)
+- https://slofile.com/ 
+- https://medium.com/@florentisidore/une-liste-de-100-communaut%C3%A9s-francophones-parlant-de-tech-e12fffd5e23d
+- https://github.com/ReportChef/List-of-best-Slack-Teams
+- https://www.slackchannels.com/front-end-developers-slack-group/
+- https://toggl.com/blog/candidate-sourcing
+- https://techbeacon.com/app-dev-testing/46-slack-groups-developers
+
+ ## Grand six : "T'es co sur Facebook, ça taffe pas?"
+- Utiliser la barre de recherche en tapant la compétence, le langage ou le nom d'entreprise (Market mapping) par exemple. Puis, utiliser la rubrique "People" pour choisir vos préférences en terme de localisation, formation, entreprise. 
+- Groupes : *site:facebook.com inurl:groups intitle:langage* sinon, utiliser directement la barre de recherche via Facebook puis sélectionner groupe.  
+- Cherchez le lien Facebook de la ville ou vous sourcez => Cliquez-droit et afficher le code source de la page => Utilisez Ctrl+F et cherchez entity_ID => Copiez le et connectez vous sur http://intelx.io/ => Cliquez sur "TOOLS" tout en haut => Sélectionnez "Facebook" dans Social Media Tools => Mettez le code dans ID of the user et tapez votre mot-clé => Search. 
+
+
+TADDAAA! 
+
+PS : Je ferai à chaque fois une MAJ de ce document. 
+N'hésitez pas à contribuer ! ❤️
