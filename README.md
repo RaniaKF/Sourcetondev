@@ -54,10 +54,14 @@ Sachant qu’un autre utilisateur peut le faire s’ils sont plusieurs à travai
 
 **Comment lire un profil Github ?**  
 ●	Repositories : Les répertoires qui contiennent les codes. (Comme ci on parlait de package) ; Ils regroupent les codes d'une application puisque chaque application a son ensemble de fichiers.
+
 ●	Pinned repositories (popular) : Les répertoires en highlight.
 Attention : Avoir des repositories sur son profil ne veut rien dire car on a la possibilité de "folker" un projet. C'est à dire, pinguer un projet d'un dev sur son profil pour le garder/le mettre en lumière. Donc il faut bien vérifier les contributions pour savoir sur quoi/avec quel langage le dev contribue: 
+
 ●	Contributions : Vu que Github se base sur tout ce qui open source, chaque utilisateur a le droit d’ajouter sa contribution à un projet. (Faire des changements sur le code par exemple)
+
 ●	Issues : Les problèmes que les utilisateurs ont trouvé après utilisation du code ;
+
 ●	Commit : Après chaque modification, ils lancent un commit sur la première version pour connaître les dernières modifications ;
 
 **Comment sourcer sur Github ?**  
