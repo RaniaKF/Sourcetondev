@@ -1,19 +1,19 @@
  # Simple, basique. 
  
- Le sourcing est l'étape qui consiste à rechercher & à engager des candidats dans un processus de recrutement. 
+=> Avant de parler de tout ceci, il faut éclaircir un certain point : Les sourceurs ne sont pas des recruteurs juniors, les sourceurs sont des sourceurs et les recruteurs sont des recruteurs. Les sourceurs peuvent être des recruteurs et les recruteurs peuvent être des sourceurs. 
+
+La mission d'un sourceur versus recruteur est l'étape qui consiste à rechercher & à engager des candidats dans un processus de recrutement. 
 En gros, c'est le recruteur qui va à la recherche du candidat et non l'inverse. Rigolo nan? Le karma est un biquet de perlimpinpin. 
 On peut dire que c'est la première étape du recrutement mais ça peut aussi se faire tout au long du processus tant que le poste n'a toujours pas été pourvu.
 
 **Si vous entendez "Stratégie de sourcing", "Market Mapping", "Reporting", "Bâtir son pipeline", "Faire de la veille"... Rassurez-vous, vous n'êtes pas perdu(e)s! (sauf si vous n'êtes pas sourceur(se)/recruteur(se)/opé et que vous ne savez PAS DU TOUT de quoi je parle)**
-
-=> Avant de parler de tout ceci, il faut éclaircir un certain point : Les sourceurs ne sont pas des recruteurs juniors, les sourceurs sont des sourceurs et les recruteurs sont des recruteurs. Les sourceurs peuvent être des recruteurs et les recruteurs peuvent être des sourceurs. 
 
 Si vous n'avez pas encore le vertige, continuons avec certaines règles à respecter : 
 
 - **#Rule 1** : Si vous débutez dans le secteur tech, je vous conseille de télécharger l'extension [GlossaryTech](https://glossarytech.com/) pour comprendre le monde des profils que vous recrutez ainsi, pouvoir parler le même language qu’eux. 
 - **#Rule 2** : Les développeurs ont StackOverFlow, nous, on a Google. Il reste quand même votre meilleur ami ! 
 - **#Rule 3** : Continuer à faire la veille informationnelle. Même si on croit tout connaître, on demeure un éternel apprenti. A vos **marques**, **prêts**, *podcasts, reports, books etc…*
-- **#Rule 4** : Si vous ne savez pas, vous ne savez pas. N'hésitez pas à demander directement à la personne que vous souhaitez recruter. Vous allez non seulement lui montrer votre intérêt mais aussi, assouvir vos connaissances. Ca vous évitera également de vous poser ce genre de question : *"Java? Pourquoi me parle-t-il d'une île? Ahhh, c'est un javanais?"*
+- **#Rule 4** : Si vous ne savez pas, vous ne savez pas. N'hésitez pas à demander directement à la personne que vous souhaitez recruter. Vous allez non seulement lui montrer votre intérêt mais aussi, assouvir vos connaissances. Cela vous évitera également de vous poser ce genre de question : *"Java? Pourquoi me parle-t-il d'une île? Ahhh, c'est un javanais?"*
 - **#Rule 5** : Toujours respecter les 4 rules ci-dessus. They see me rollin', they haaatin'. 🎵
 
 *(askip, c'est plus clean si vous insèrez des mots en anglais)*
@@ -45,7 +45,7 @@ Pourquoi je vous ramène sur Github déjà? Car on doit comprendre notre populat
 
 **C'est quoi ?**
 C’est une plateforme d'hébergement de code. En gros, c'est là ou les devs exposent leur code en open source. 
-Pour résumé, ils ont la possibilité de :
+Pour résumer, ils ont la possibilité de :
 - Enregistrer leurs ‘’ressources’’ ( = Projets )
 - Coder à plusieurs en même temps ;
 - Envoyer leur version avec un '' push '' (= Envoi du code) ;
@@ -58,11 +58,11 @@ Sachant qu’un autre utilisateur peut le faire s’ils sont plusieurs à travai
 ●	Pinned repositories (popular) : Les répertoires en highlight.
 Attention : Avoir des repositories sur son profil ne veut rien dire car on a la possibilité de "folker" un projet. C'est à dire, pinguer un projet d'un dev sur son profil pour le garder/le mettre en lumière. Donc il faut bien vérifier les contributions pour savoir sur quoi/avec quel langage le dev contribue: 
 
-●	Contributions : Vu que Github se base sur tout ce qui open source, chaque utilisateur a le droit d’ajouter sa contribution à un projet. (Faire des changements sur le code par exemple)
+●	Contributions : Vu que Github se base sur tout ce qui est open source, chaque utilisateur a le droit d’ajouter sa contribution à un projet. (Faire des changements sur le code par exemple)
 
-●	Issues : Les problèmes que les utilisateurs ont trouvé après utilisation du code.
+●	Issues : Les problèmes que les utilisateurs ont trouvé après l'utilisation du code.
 
-●	Commit : Après chaque modification, ils lancent un commit sur la première version pour connaître les dernières modifications.
+●	Commit : Quand le dev veut sauvegarder la progression des modifications de son code, il fait ce qu'on appelle un commit.
 
 **Comment sourcer sur Github ?**  
 1) Créer son compte en cliquant [ICI](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
@@ -75,7 +75,7 @@ Concernant la localisation, diversifiez, tentez tout, tout, tout ! (Paris, Ile d
 
 Mais ce n'est pas tout, on a plusieurs extensions qui viennent en complément : 
 - [AmazingHiring](https://chrome.google.com/webstore/detail/amazinghiring/didkfdopbffjkpolefhpcjkohcpalicd) qui nous permet d'avoir les links des profils linkedIn. (Même avec un pseudo bisounours)  
-- [OctoHR](https://chrome.google.com/webstore/detail/octohr/beiklbdjdmfkgchmiabjejdlpaoicbef) qui nous permet de connaître le taux de compétences sur chaque langage. 
+- [OctoHR](https://chrome.google.com/webstore/detail/octohr/beiklbdjdmfkgchmiabjejdlpaoicbef) qui nous permet de connaître le pourcentage de maîtrise sur le langage par le dev. 
 - [Github Email](https://chrome.google.com/webstore/detail/github-email/lbmihmdihhbalofnepbceabgecmobimk) qui nous permet d'avoir l'adresse mail. 
 
 Quelques pistes pour sourcer / contacter les profils : 
