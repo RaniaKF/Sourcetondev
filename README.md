@@ -1,4 +1,4 @@
- # Simple, basique. 
+ # Simple, basique. #jécriscommejeparle
  
 => Avant de parler de tout ceci, il faut éclaircir un certain point : Les sourceurs ne sont pas des recruteurs juniors, les sourceurs sont des sourceurs et les recruteurs sont des recruteurs. Les sourceurs peuvent être des recruteurs et les recruteurs peuvent être des sourceurs. 
 
@@ -46,11 +46,10 @@ Pourquoi je vous ramène sur Github déjà? Car on doit comprendre notre populat
 **C'est quoi ?**
 C’est une plateforme d'hébergement de code. En gros, c'est là ou les devs exposent leur code en open source. 
 Pour résumer, ils ont la possibilité de :
-- Enregistrer leurs ‘’ressources’’ ( = Projets )
+- Enregistrer leurs ‘’ressources’’ ; ( = Projets )
 - Coder à plusieurs en même temps ;
-- Envoyer leur version avec un '' push '' (= Envoi du code) ;
-- Lancer un ''commit'' (= Vérifier et valider le code).
-Sachant qu’un autre utilisateur peut le faire s’ils sont plusieurs à travailler sur un seul projet.
+- Vérifier et valider son code (Sachant qu’un autre utilisateur peut le faire s’ils sont plusieurs à travailler sur un seul projet) ;
+- Envoyer leur version (code) avec un "push". (Pull => Add => Commit => Push)
 
 **Comment lire un profil Github ?**  
 ●	Repositories : Les répertoires qui contiennent les codes. (Comme ci on parlait de package) ; Ils regroupent les codes d'une application puisque chaque application a son ensemble de fichiers.
