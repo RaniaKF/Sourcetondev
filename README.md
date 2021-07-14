@@ -48,7 +48,7 @@ C’est une plateforme d'hébergement de code. En gros, c'est là ou les devs ex
 Pour résumer, ils ont la possibilité de :
 - Enregistrer leurs ‘’ressources’’ ; ( = Projets )
 - Coder à plusieurs en même temps ;
-- Vérifier et valider son code (Sachant qu’un autre utilisateur peut le faire s’ils sont plusieurs à travailler sur un seul projet) ;
+- Vérifier et valider leur code (Sachant qu’un autre utilisateur peut le faire s’ils sont plusieurs à travailler sur un seul projet) ;
 - Envoyer leur version (code) avec un "push". (Pull => Add => Commit => Push)
 
 **Comment lire un profil Github ?**  
