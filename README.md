@@ -91,7 +91,7 @@ Github est non seulement utilisé pour coder mais également pour stocker des do
 Voici quelques astuces/exemples : 
 (Utilisation de : Extension pour rechercher des fichiers par type, Filename pour rechercher des fichiers par nom et Location pour la localisation)
 
-- extension:json filename:resume “paris” golang.
+- extension:json filename:resume “paris” golang
 - filename:cv extension:tex "java developer"
 - filename:resume "java developer" location: paris
 
