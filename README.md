@@ -84,7 +84,10 @@ Quelques pistes pour sourcer / contacter les profils :
 - Patch : https://github.com/ + nom de l'utilisateur + commit + .patch. Exemple : https://github.com/CesarValiente/cesarvaliente.github.io/commit/a8baac6c39bb4f22177f5612273a0200748d6e0a.patch 
 
 Github est non seulement utilisé pour coder mais également pour stocker des documents. Il possède donc des CVs que Google ne vous trouvera pas forcément.
-Voici quelques astuces/exemples pour les trouver : (Utilisation de : Extension pour rechercher des fichiers par type, Filename pour rechercher des fichiers par nom et Location pour la localisation)
+
+Voici quelques astuces/exemples pour les trouver : 
+(Utilisation de : Extension pour rechercher des fichiers par type, Filename pour rechercher des fichiers par nom et Location pour la localisation)
+
 - extension:json filename:resume “paris” golang.
 - filename:cv extension:tex "java developer"
 - filename:resume "java developer" location: paris
