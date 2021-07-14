@@ -26,7 +26,7 @@ Pour le faire, nous avons besoin de 10 ingrédients :
 - Parentheses ( ) : Définition de la priorité de la search entre AND / OR. C'est comme dans les maths, (4+5) x 4 n'est pas égal à 4 + (5x4) Par exemple : Developer AND (Paris OR Nantes) => Vous obtenez des devs de Paris ou de Nantes. 
 - Minus - : Exclusion des mots. Exemple : Vous êtes à la search de jujus et vous n'avez pas envie de perdre du temps? ==> Software Engineer -Senior 
 - AND/ET : Ajout de mots. Le mieux est d'utiliser "+" à la place d' "AND" Exemple : Developer + Java 
-- OR : Alternatives. Le mieux est d'utiliser | Exemple : engineer|developer 
+- OR : Alternatives. Le mieux est d'utiliser "|" Exemple : engineer|developer 
 - Asterisk * : Prendre en compte la racine des mots. En tapant dev*, vous aurez comme résultats tous les mots commençant par dev : développeur, développeurs, développement etc.
 
 Ces boolean search peuvent être utiliser sur Linkedin/LinkedIn Recruiter/Sales ou en mots-clés de votre recherche Google/Bing notamment : 
