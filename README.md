@@ -16,7 +16,7 @@ Vous n'avez pas encore le vertige? Très bien, continuons avec certaines règles
 - **#Rule 4** : Si vous ne savez pas, vous ne savez pas. N'hésitez pas à demander directement à la personne que vous souhaitez recruter. Vous allez non seulement lui montrer votre intérêt mais aussi, assouvir vos connaissances. Cela vous évitera également de vous poser ce genre de question : *"Java? Pourquoi me parle-t-il d'une île? Ahhh, c'est un javanais?"*
 - **#Rule 5** : Toujours respecter les 4 rules ci-dessus. They see me rollin', they haaatin'. 🎵
 
-*(askip, c'est plus clean si vous insèrez des mots en anglais)*
+*(askip, c'est plus clean si vous insérez des mots en anglais)*
 
 ## Grand un : Parlons booléen, maintenant.
 ```Affinons et élargissons ensemble nos recherches par mots-clés. 
