@@ -118,7 +118,7 @@ On peut utiliser :
 
  ## Grand cinq : Sl(t)ack ? 
 La liste des communautés : 
-- Taper tout simplement sur Google la communauté recherchée (Par exemple : ruby on rails slack groupe)
+- Tapez tout simplement sur Google la communauté recherchée (Par exemple : ruby on rails slack groupe)
 - https://slofile.com/ 
 - https://medium.com/@florentisidore/une-liste-de-100-communaut%C3%A9s-francophones-parlant-de-tech-e12fffd5e23d
 - https://github.com/ReportChef/List-of-best-Slack-Teams
@@ -127,9 +127,9 @@ La liste des communautés :
 - https://techbeacon.com/app-dev-testing/46-slack-groups-developers
 
  ## Grand six : "T'es co sur Facebook, ça taffe pas?"
-- Utiliser la barre de recherche en tapant la compétence, le langage ou le nom d'entreprise (via votre Market mapping) par exemple. Puis, utiliser la rubrique "People" pour choisir vos préférences en terme de localisation, formation, entreprise. 
-- Groupes : *site:facebook.com inurl:groups intitle:langage* sinon, utiliser directement la barre de recherche via Facebook puis sélectionner groupe.  
-- Chercher le lien Facebook de la ville ou vous sourcez => Cliquez-droit et afficher le code source de la page => Utilisez Ctrl+F et cherchez entity_ID => Copiez le et connectez vous sur http://intelx.io/ => Cliquez sur "TOOLS" tout en haut => Sélectionnez "Facebook" dans Social Media Tools => Mettez le code dans ID of the user et tapez votre mot-clé => Search. 
+- Utilisez la barre de recherche en tapant la compétence, le langage ou le nom d'entreprise (via votre Market mapping) par exemple. Puis, utilisez la rubrique "People" pour choisir vos préférences en terme de localisation, formation, entreprise. 
+- Groupes : *site:facebook.com inurl:groups intitle:langage* sinon, utilisez directement la barre de recherche via Facebook puis sélectionnez groupe.  
+- Cherchez le lien Facebook de la ville ou vous sourcez => Cliquez-droit et affichez le code source de la page => Utilisez Ctrl+F et cherchez entity_ID => Copiez le et connectez vous sur http://intelx.io/ => Cliquez sur "TOOLS" tout en haut => Sélectionnez "Facebook" dans Social Media Tools => Mettez le code dans ID of the user et tapez votre mot-clé => Search. 
 
 Petit bonus si vous avez envie de scrapper vos résultats: [Instant Data Scraper](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah) 
 
