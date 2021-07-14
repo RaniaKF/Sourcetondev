@@ -8,7 +8,7 @@ On peut dire que c'est la première étape du recrutement mais ça peut aussi se
 
 **Si vous entendez "Stratégie de sourcing", "Market Mapping", "Reporting", "Bâtir son pipeline", "Faire de la veille"... Rassurez-vous, vous n'êtes pas perdu(e)s! (sauf si vous n'êtes pas sourceur(se)/recruteur(se)/opé et que vous ne savez PAS DU TOUT de quoi je parle)**
 
-Si vous n'avez pas encore le vertige, continuons avec certaines règles à respecter : 
+Vous n'avez pas encore le vertige? Très bien, continuons avec certaines règles à respecter : 
 
 - **#Rule 1** : Si vous débutez dans le secteur tech, je vous conseille de télécharger l'extension [GlossaryTech](https://glossarytech.com/) pour comprendre le monde des profils que vous recrutez ainsi, pouvoir parler le même language qu’eux. 
 - **#Rule 2** : Les développeurs ont StackOverFlow, nous, on a Google. Il reste quand même votre meilleur ami ! 
