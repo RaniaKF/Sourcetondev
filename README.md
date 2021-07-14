@@ -112,8 +112,8 @@ Voici quelques astuces/exemples :
  ## Grand quatre : Chope ton oiseau avec Twitter
  
 On peut utiliser :
-1) site:twitter.com title langage etc.
-2) site:twitter.com inurl:lists + langage.
+1) site:twitter.com title langage 
+2) site:twitter.com inurl:lists + langage
 3) https://tweetdeck.twitter.com/ si vous aimez stalker :), vous pouvez notamment sauvegarder vos hashtags/events...
 
  ## Grand cinq : Sl(t)ack ? 
