@@ -83,6 +83,14 @@ Quelques pistes pour sourcer / contacter les profils :
 - API : https://api.github.com/users/(pseudo de l’utilisateur)/events/public
 - Patch : https://github.com/ + nom de l'utilisateur + commit + .patch. Exemple : https://github.com/CesarValiente/cesarvaliente.github.io/commit/a8baac6c39bb4f22177f5612273a0200748d6e0a.patch 
 
+Github est non seulement utilisé pour coder mais également pour stocker des documents. Il possède donc des CVs que Google ne vous trouvera pas forcément.
+Voici quelques astuces/exemples pour les trouver : (Utilisation de : Extension pour rechercher des fichiers par type, Filename pour rechercher des fichiers par nom et Location pour la localisation)
+=> extension:json filename:resume “paris” golang.
+=> filename:cv extension:tex "java developer"
+=> filename:resume "java developer" location: paris
+
+(Jouez avec ces 3 mots-clés! = ✨✨)
+
  ## Grand trois : Manger son steak avec du flow ! (Blague pourrie, bonjour) 
  Comme c'est un forum qui permet aux développeurs d'échanger, de poser leurs questions et de trouver des réponses lorsqu'ils buguent dans leur code... Cela peut aussi servir de le checker. 🔎
  
