@@ -41,7 +41,7 @@ Ces boolean search peuvent être utiliser sur Linkedin/LinkedIn Recruiter/Sales 
  Plus d'infos : https://github.com/RaniaKF/Sourcetondev/blob/main/Alumni
  
  ## Grand deux : Parlons Github, maintenant.
-Pourquoi je vous ramène sur Github déjà? Car on doit comprendre notre population recherchée en tant que recruteur(se)/sourceur(se). 
+Pourquoi je vous ramène sur Github? Car on doit comprendre notre population recherchée en tant que recruteur(se)/sourceur(se). 
 
 **C'est quoi ?**
 C’est une plateforme d'hébergement de code. En gros, c'est là ou les devs exposent leur code en open source. 
