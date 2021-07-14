@@ -23,7 +23,7 @@ Vous n'avez pas encore le vertige? Très bien, continuons avec certaines règles
 Pour le faire, nous avons besoin de 10 ingrédients : 
 
 - Quotes " " : Obtention exacte de la suite des mots qu'on tape. Par exemple : "Senior Software Engineer Java", vous aurez exactement du Senior + Software + Engineer + Java. 🤓
-- Parentheses ( ) : Définition de la priorité de la search entre AND / OR. C'est comme dans les maths, (4+5) x 4 n'est pas 4 + (5x4) Par exemple : Developer AND (Paris OR Nantes) => Vous obtenez des devs de Paris ou de Nantes. 
+- Parentheses ( ) : Définition de la priorité de la search entre AND / OR. C'est comme dans les maths, (4+5) x 4 n'est pas égal à 4 + (5x4) Par exemple : Developer AND (Paris OR Nantes) => Vous obtenez des devs de Paris ou de Nantes. 
 - Minus - : Exclusion des mots. Exemple : Vous êtes à la search de jujus et vous n'avez pas envie de perdre du temps? Software Engineer -Senior 
 - AND/ET : Ajout de mots. Le mieux est d'utiliser + Exemple : Developer + Java 
 - OR : Alternatives. Le mieux est d'utiliser | Exemple : engineer|developer 
