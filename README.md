@@ -1,6 +1,6 @@
  # Simple, basique. #jécriscommejeparle
  
-=> Avant de parler de tout ceci, il faut éclaircir un certain point : Les sourceurs ne sont pas des recruteurs juniors, les sourceurs sont des sourceurs et les recruteurs sont des recruteurs. Les sourceurs peuvent être des recruteurs et les recruteurs peuvent être des sourceurs. 
+=> Avant de parler sourcing, il faut éclaircir un certain point : Les sourceurs ne sont pas des recruteurs juniors, les sourceurs sont des sourceurs et les recruteurs sont des recruteurs. Les sourceurs peuvent être des recruteurs et les recruteurs peuvent être des sourceurs. 
 
 La mission d'un sourceur versus recruteur est l'étape qui consiste à rechercher & à engager des candidats dans un processus de recrutement. 
 En gros, c'est le recruteur qui va à la recherche du candidat et non l'inverse. Rigolo nan? Le karma est un biquet de perlimpinpin. 
