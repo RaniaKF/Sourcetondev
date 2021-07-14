@@ -52,6 +52,7 @@ Pour résumer, ils ont la possibilité de :
 - Envoyer leur version (code) avec un "push". (Pull => Add => Commit => Push)
 
 **Comment lire un profil Github ?**  
+
 ●	Repositories : Les répertoires qui contiennent les codes. (Comme ci on parlait de package) ; Ils regroupent les codes d'une application puisque chaque application a son ensemble de fichiers.
 
 ●	Pinned repositories (popular) : Les répertoires en highlight.
