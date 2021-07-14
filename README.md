@@ -66,7 +66,9 @@ Attention : Avoir des repositories sur son profil ne veut rien dire car on a la 
 **Comment sourcer sur Github ?**  
 1) Créer son compte en cliquant [ICI](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 2) Utiliser https://github.com/search/advanced 
-3) Utiliser la barre (Advanced search) + la rubrique Users options (Localisation + Langage) - On s'en fout du nombre de followers. (On peut être bon sans pour autant être un as de GitHub)
+3) Utiliser la barre (Advanced search) + la rubrique Users options (Localisation + Langage) 
+**FYI** : -/minus/ On s'en fout du nombre de followers. (On peut être bon sans pour autant être un as de GitHub)
+
 *= Ce que ça donne en recherche booléenne sur Github : Titre location:X language:X*
 Concernant la localisation, diversifiez, tentez tout, tout, tout ! (Paris, Ile de France etc.)
 
