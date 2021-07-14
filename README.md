@@ -129,7 +129,7 @@ La liste des communautés :
  ## Grand six : "T'es co sur Facebook, ça taffe pas?"
 - Utiliser la barre de recherche en tapant la compétence, le langage ou le nom d'entreprise (via votre Market mapping) par exemple. Puis, utiliser la rubrique "People" pour choisir vos préférences en terme de localisation, formation, entreprise. 
 - Groupes : *site:facebook.com inurl:groups intitle:langage* sinon, utiliser directement la barre de recherche via Facebook puis sélectionner groupe.  
-- Cherchez le lien Facebook de la ville ou vous sourcez => Cliquez-droit et afficher le code source de la page => Utilisez Ctrl+F et cherchez entity_ID => Copiez le et connectez vous sur http://intelx.io/ => Cliquez sur "TOOLS" tout en haut => Sélectionnez "Facebook" dans Social Media Tools => Mettez le code dans ID of the user et tapez votre mot-clé => Search. 
+- Chercher le lien Facebook de la ville ou vous sourcez => Cliquez-droit et afficher le code source de la page => Utilisez Ctrl+F et cherchez entity_ID => Copiez le et connectez vous sur http://intelx.io/ => Cliquez sur "TOOLS" tout en haut => Sélectionnez "Facebook" dans Social Media Tools => Mettez le code dans ID of the user et tapez votre mot-clé => Search. 
 
 Petit bonus si vous avez envie de scrapper vos résultats: [Instant Data Scraper](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah) 
 
