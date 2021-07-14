@@ -1,3 +1,5 @@
+ <img src="https://nsa40.casimages.com/img/2021/07/14/210714105126912283.gif">
+ 
  # Simple, basique. #jécriscommejeparle
  
 => Avant de parler sourcing, il faut éclaircir un certain point : Les sourceurs ne sont pas des recruteurs juniors, les sourceurs sont des sourceurs et les recruteurs sont des recruteurs. Les sourceurs peuvent être des recruteurs et les recruteurs peuvent être des sourceurs. 
