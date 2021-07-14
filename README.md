@@ -78,7 +78,7 @@ Mais ce n'est pas tout, on a plusieurs extensions qui viennent en complément :
 - [Github Email](https://chrome.google.com/webstore/detail/github-email/lbmihmdihhbalofnepbceabgecmobimk) qui nous permet d'avoir l'adresse mail. 
 
 Quelques pistes pour sourcer / contacter les profils : 
-- Si vous avez du temps (😂), vous pouvez également utiliser https://octohunt.com/. Cela permet de fouiller dans la base d'utilisateurs GitHub en utilisant comme filtres : La localisation + la compétence clé du candidat 
+- Si vous avez le temps (😂), vous pouvez également utiliser https://octohunt.com/. Cela permet de fouiller dans la base d'utilisateurs GitHub en utilisant comme filtres : La localisation + la compétence clé du candidat 
 - X-Ray : site:github.com «contributions in the last year» langage localisation
 - API : https://api.github.com/users/(pseudo de l’utilisateur)/events/public
 - Patch : https://github.com/ + nom de l'utilisateur + commit + .patch. Exemple : https://github.com/CesarValiente/cesarvaliente.github.io/commit/a8baac6c39bb4f22177f5612273a0200748d6e0a.patch 
