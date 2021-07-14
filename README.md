@@ -85,9 +85,9 @@ Quelques pistes pour sourcer / contacter les profils :
 
 Github est non seulement utilisé pour coder mais également pour stocker des documents. Il possède donc des CVs que Google ne vous trouvera pas forcément.
 Voici quelques astuces/exemples pour les trouver : (Utilisation de : Extension pour rechercher des fichiers par type, Filename pour rechercher des fichiers par nom et Location pour la localisation)
-=> extension:json filename:resume “paris” golang.
-=> filename:cv extension:tex "java developer"
-=> filename:resume "java developer" location: paris
+- extension:json filename:resume “paris” golang.
+- filename:cv extension:tex "java developer"
+- filename:resume "java developer" location: paris
 
 (Jouez avec ces 3 mots-clés! = ✨✨)
 
