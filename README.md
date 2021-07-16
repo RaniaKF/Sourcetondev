@@ -117,7 +117,8 @@ Voici quelques astuces/exemples :
 On peut utiliser :
 1) site:twitter.com title langage 
 2) site:twitter.com inurl:lists + langage
-3) https://tweetdeck.twitter.com/ si vous aimez stalker :), vous pouvez notamment sauvegarder vos hashtags/events...
+3) https://twitter.com/search-advanced
+4) https://tweetdeck.twitter.com/ si vous aimez stalker :), vous pouvez notamment sauvegarder vos hashtags/events...
 
  ## Grand cinq : Sl(t)ack ? 
 La liste des communautés : 
